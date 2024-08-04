@@ -1,7 +1,6 @@
 - 👋 Hi, I’m frankdester
 - 👀 I’m interested in java stuff
-- 🌱 I’m currently studying at 3IL
-- 💞️ I’m looking to collaborate on java, jee && spring projects
+- 🌱 I studied at 3IL and EFREI
 - 📫 You can check me up here or on my linkedIn profil
 
 <!---
