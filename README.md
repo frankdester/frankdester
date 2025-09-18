@@ -1,5 +1,5 @@
 - 👋 Hi, I’m frankdester
-- 👀 I’m interested in java stuff
+- 👀 I’m interested in IT stuff
 - 🌱 I studied at 3IL and EFREI
 - 📫 You can check me up here or on my linkedIn profil
 
